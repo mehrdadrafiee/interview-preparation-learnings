@@ -1,6 +1,6 @@
 # forEach
 
-`forEach` is and array helper method. We have access to `forEach` method on any given array. We pass in an anonymous function to the `forEach` helper which gets called one time for every element in the array and whatever is inside the function would be executed.
+[`forEach`][forEach-helper] is and array helper method. We have access to `forEach` method on any given array. We pass in an anonymous function to the `forEach` helper which gets called one time for every element in the array and whatever is inside the function would be executed.
 
 ```js
 let colors = [ 'red', 'green', 'blue' ];
@@ -33,3 +33,6 @@ output:
 ```js
 // 15
 ```
+
+
+[forEach-helper]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
