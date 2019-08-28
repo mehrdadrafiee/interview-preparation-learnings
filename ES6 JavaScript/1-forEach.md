@@ -8,16 +8,13 @@ let colors = [ 'red', 'green', 'blue' ];
 colors.forEach((color) => {
   console.log(color);
 });
-```
 
-output:
-```js
 // red
 // green
 // blue
 ```
 
-### Example
+### Example(s)
 
 ```js
 let numbers = [1, 2, 3, 4, 5];
@@ -27,10 +24,7 @@ let sum = 0;
 number.forEach((number) => {
   sum += number;
 });
-```
 
-output:
-```js
 // 15
 ```
 

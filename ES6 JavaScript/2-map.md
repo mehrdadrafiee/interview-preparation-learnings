@@ -9,14 +9,11 @@ let doubledNumbers = [];
 let doubled = numbers.map((number) => {
   return number * 2;
 });
-```
 
-output:
-```js
 // [2, 4, 6]
 ```
 
-### Example
+### Example(s)
 
 ```js
 let cars = [
@@ -46,5 +43,6 @@ let speeds = trips.map(({ distance, time }) => {
 
 // [3.4,1.8,2.36]
 ```
+
 
 [map-helper]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
