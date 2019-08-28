@@ -10,9 +10,8 @@ colors.forEach(function(color) {
 });
 ```
 
+output:
 ```js
-// output:
-
 // red
 // green
 // blue
