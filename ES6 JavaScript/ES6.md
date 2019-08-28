@@ -2,8 +2,9 @@
 
 ES6 is short for ECMAScript 6, which means the 6th version or the 6th implementation of ECMAScript. ECMAScript/ES6 is the **standard**, while JavaScript is an **implementation** of that standard.
 
-| v1          |   1990s  |
+|       ECMAScript       |
 |-------------|----------|
+| v1          |   1990s  |
 | v2          |  1990s   |
 | v3          |  1990s   |
 | v4          | ~~2008~~ |
