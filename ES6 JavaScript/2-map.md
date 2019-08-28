@@ -41,7 +41,7 @@ let speeds = trips.map(({ distance, time }) => {
   return distance / time;
 });
 
-// [3.4,1.8,2.36]
+// [3.4, 1.8, 2.36]
 ```
 
 
