@@ -36,8 +36,6 @@ let prices = cars.map((car) => {
 // ['expensive', 'cheap']
 ```
 
----
-
 ```js
 let trips = [
   { distance: 34, time: 10 },
