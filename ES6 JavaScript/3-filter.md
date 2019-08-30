@@ -1,6 +1,6 @@
 # filter
 
-`filter`[filter-helper] helper produces a subset (**creates a new array**) of all the records that pass the test implemented by the provided function.
+[`filter`] [filter-helper] helper produces a subset (**creates a new array**) of all the records that pass the test implemented by the provided function.
 
 ```js
 let products = [

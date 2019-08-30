@@ -1,6 +1,6 @@
 # map
 
-`map`[map-helper] helper is the most widely used array helper. The `map()` method **creates a new array** with the results of calling a provided function on every element in the calling array.
+[`map`] [map-helper] helper is the most widely used array helper. The `map()` method **creates a new array** with the results of calling a provided function on every element in the calling array.
 
 ```js
 let numbers = [ 1, 2, 3 ];
