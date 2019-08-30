@@ -14,6 +14,20 @@ colors.forEach((color) => {
 // blue
 ```
 
+```js
+
+// 'colors' array                                  result array
+
+// red
+// green ---------> Iterator Function ---------> do something
+// blue
+
+// (the Iterator Function gets called one time for every element in the array and returns then goes to the next element if there are any left)
+
+```
+
+---
+
 ### Example(s)
 
 ```js
