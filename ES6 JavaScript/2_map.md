@@ -4,7 +4,7 @@
 
 ```js
 let numbers = [ 1, 2, 3 ];
-let doubledNumbers = [];
+
 
 let doubled = numbers.map((number) => {
   return number * 2;
