@@ -16,7 +16,7 @@ colors.forEach((color) => {
 
 ```js
 
-// 'colors' array                                  result array
+// 'colors' array
 
 // red
 // green ---------> Iterator Function ---------> do something
