@@ -13,11 +13,13 @@ let doubled = numbers.map((number) => {
 // [2, 4, 6]
 ```
 
+```js
 'numbers' array                                    result array
 
 1 ---------> Iterator Function ----_returns_-----> 2
 2 ---------> Iterator Function ----_returns_-----> 4
 3 ---------> Iterator Function ----_returns_-----> 6
+```
 
 ### Example(s)
 
