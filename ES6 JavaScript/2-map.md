@@ -14,7 +14,7 @@ let doubled = numbers.map((number) => {
 ```
 
 ```js
-// 'numbers' array                                    result array
+// 'numbers' array                                  result array
 
 // 1 ---------> Iterator Function ----returns-----> 2
 // 2 ---------> Iterator Function ----returns-----> 4
