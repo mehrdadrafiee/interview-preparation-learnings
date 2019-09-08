@@ -18,9 +18,9 @@ products.filter((product) => {
 ```js
 // 'products' array                                                    result array
 
-// fruit ---------> Iterator Function ----returns----->true ---------> fruit
+// fruit     ---------> Iterator Function ----returns----->true ---------> fruit
 // vegetable ---------> Iterator Function ----returns----->false
-// fruit ---------> Iterator Function ----returns----->true ---------> fruit
+// fruit     ---------> Iterator Function ----returns----->true ---------> fruit
 ```
 
 ---
